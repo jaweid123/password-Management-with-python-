@@ -122,7 +122,8 @@ passwords.text
 
 This project was created for practicing Python programming and understanding how password encryption works.
 
----
+-------
+this project able to password management webs site database etc 
 
 ## Author
 
